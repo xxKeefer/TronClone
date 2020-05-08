@@ -99,10 +99,6 @@ Here are some very early, extremely rough concepts of how I wanted the game to l
 - [Trello Board](https://trello.com/b/hdiSXwWJ/codingbootcamptextadventure) -->
 
 
-### Presentation
-
-Here is a link to my [Google Slide Presentation](https://docs.google.com/presentation/d/1skDW5dOQmxmbZVYYjgGwsOtw0axuxGczf0Pi4Acf4y8/edit#slide=id.g8422e20969_1_91) that I plan to present before I play my app. I just hope to give a quick run down of how my week went based off of these headings.
-
 ---
 
 ## Development Log

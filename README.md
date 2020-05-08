@@ -7,7 +7,8 @@
 
 ## Follow us
 
-Simo_Sultans
+Simo_Sultan
+
 ![GitHub followers](https://img.shields.io/github/followers/SimoSultan?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/simo_sultan?style=social)
 
@@ -20,9 +21,9 @@ Source code: [https://github.com/xxKeefer/TronClone](https://github.com/xxKeefer
 
 
 Files:
-- [Help](https://https://github.com/xxKeefer/TronClone/blob/master/docs/help.md)
-- [Development log](https://https://github.com/xxKeefer/TronClone/blob/master/docs/dev_log.md)
-- [Software Development Plan](https://https://github.com/xxKeefer/TronClone/blob/master/docs/sdp.md)
+- [Help](https://github.com/xxKeefer/TronClone/blob/master/docs/help.md)
+- [Development log](https://github.com/xxKeefer/TronClone/blob/master/docs/dev_log.md)
+- [Software Development Plan](https://github.com/xxKeefer/TronClone/blob/master/docs/sdp.md)
 - [Flow Chart](https://miro.com/app/board/o9J_ksv3ufg=/)
 - [Trello Board](https://trello.com/b/s9wZhtPv/tronclone)
 
