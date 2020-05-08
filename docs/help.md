@@ -1,4 +1,4 @@
-﻿![Tron Light Cycle Clone logo](https://https://github.com/xxKeefer/TronClone/blob/master/docs/logo.png)
+﻿![Tron Light Cycle Clone logo](https://github.com/xxKeefer/TronClone/blob/master/docs/logo.png)
 
 
 
